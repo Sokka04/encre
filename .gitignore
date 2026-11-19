@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+*-preview/
+.encre_*.docx
+.DS_Store
+Thumbs.db

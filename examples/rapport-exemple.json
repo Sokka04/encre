@@ -1,0 +1,125 @@
+{
+  "genre": "rapport",
+  "title": "Réorganisation des tournées matinales du dépôt de Tours",
+  "short_title": "Audit tournées matinales, dépôt de Tours",
+  "subtitle": "Analyse des écarts de ponctualité au troisième trimestre 2026 et plan d'ajustement",
+  "document_type_label": "Audit d'exploitation interne",
+  "organization": "Messagerie Val-de-Loire (données internes d'exemple)",
+  "author": "Camille Bernard",
+  "recipient": "Direction d'exploitation",
+  "reference": "MVL-EXP-2026-14",
+  "date": "18 novembre 2026",
+  "palette": "bleu-nuit",
+  "lang": "fr",
+  "toc": true,
+  "sections": [
+    {
+      "level": 1,
+      "title": "1. Contexte et périmètre de l'observation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Entre le 1er juillet et le 30 septembre 2026, le dépôt de Tours a traité 48 620 colis sur quatorze tournées quotidiennes. Les réclamations clients pour livraison tardive ont augmenté de 19 % sur la période par rapport au printemps précédent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cet audit examine uniquement les départs compris entre 6 h 30 et 8 h 15, qui concentrent 82 % des volumes urbains et périurbains de l'agence. Les liaisons inter-dépôts de nuit ne relèvent pas de cette analyse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les relevés proviennent des terminaux mobiles des chauffeurs, du pointage d'ouverture des quais et de vingt-deux journées d'observation directe réalisées sur site."
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "title": "2. Constats sur la préparation et la distribution",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Trois facteurs concrets expliquent la dérive des horaires observée depuis juillet. Ils tiennent autant à l'ordre de tri sur le quai qu'au découpage géographique des trois secteurs centraux."
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "2.1 Allongement du temps de chargement à quai",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Le départ théorique des utilitaires est fixé à 7 h 20. En pratique, l'heure moyenne de sortie de cour a glissé à 7 h 47 en septembre, soit vingt-sept minutes de décalage dès le premier client."
+        },
+        {
+          "type": "paragraph",
+          "text": "La cause principale vient de la réception tardive de la navette d'Orléans, arrivée après 6 h 35 lors de trente-huit matinées sur soixante-cinq. Les chauffeurs attendent alors la fin du déchargement avant de trier leurs bacs."
+        },
+        {
+          "type": "quote",
+          "text": "« Quand la navette arrive à 6 h 45, nous chargeons les derniers colis sans ordre de rue. On perd ensuite vingt minutes devant les zones piétonnes pour retrouver les bons cartons. » (Chef d'équipe quai matin, entretien du 9 octobre 2026)"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "2.2 Déséquilibre de charge entre les quatorze tournées",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Le découpage actuel date de février 2024 et n'intègre pas l'ouverture des deux zones artisanales au nord de Joué-lès-Tours. Trois véhicules dépassent régulièrement 135 points d'arrêt par jour, tandis que deux tournées rurales restent sous 65 arrêts."
+        },
+        {
+          "type": "table",
+          "caption": "Tableau 1 : Indicateurs d'exploitation par zone au troisième trimestre 2026",
+          "headers": [
+            "Zone géographique",
+            "Tournées actives",
+            "Arrêts / jour (moy.)",
+            "Retard moyen au départ",
+            "Échecs 1er passage"
+          ],
+          "rows": [
+            ["Tours Centre et zones piétonnes", "4", "134", "31 min", "9,4 %"],
+            ["Première couronne Nord", "4", "126", "28 min", "7,8 %"],
+            ["Première couronne Sud (Joué)", "3", "138", "29 min", "8,6 %"],
+            ["Secteur rural Est et Ouest", "3", "63", "16 min", "3,1 %"]
+          ],
+          "alignments": ["left", "right", "right", "right", "right"],
+          "col_widths_cm": [5.4, 2.5, 2.7, 2.7, 2.7],
+          "source": "Extraction interne du logiciel d'exploitation MVL, période du 01/07/2026 au 30/09/2026."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le tableau fait apparaître un écart net entre le centre-ville et les secteurs ruraux. Dans les trois zones denses, les livraisons manquées avant 10 h 30 obligent les conducteurs à repasser l'après-midi, ce qui rallonge la tournée de quarante minutes en moyenne."
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "title": "3. Actions retenues pour le premier trimestre 2027",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Quatre ajustements opérationnels sont applicables sans investissement matériel lourd dès le mois de janvier 2027. Leur mise en œuvre porte sur le séquencement des quais et le rééquilibrage des cartes."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Avancer le départ de la navette d'Orléans de vingt-cinq minutes afin de garantir une mise à quai avant 6 h 10.",
+            "Affecter deux préparateurs de nuit au pré-tri par ordre de rue sur les quatre tournées du centre-ville.",
+            "Transférer trente-cinq adresses industrielles du sud de Joué vers la tournée rurale Est, qui dispose d'une marge horaire de soixante minutes.",
+            "Envoyer un avis de passage numérique par SMS dès le départ du dépôt pour limiter les absences chez les particuliers."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Un point hebdomadaire avec les chefs d'équipe permettra de mesurer l'heure réelle de sortie de cour pendant les six premières semaines. L'objectif retenu avec la direction consiste à ramener le taux d'échec au premier passage sous 5,5 % avant la fin du mois de mars 2027."
+        }
+      ]
+    }
+  ],
+  "bibliography_title": "Documents internes de référence",
+  "bibliography": [
+    "Messagerie Val-de-Loire. (2026). Export mensuel des bordereaux de tournée, agence de Tours (juillet à septembre 2026). Archive interne MVL-LOG-2026.",
+    "Messagerie Val-de-Loire. (2026). Comptes rendus d'observation quai matin et entretiens conducteurs. Note interne RH-EXP-09."
+  ]
+}
